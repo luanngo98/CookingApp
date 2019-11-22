@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/nav_bookmark"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Bookmark"
+        />
+
+    <item
+        android:id="@+id/nav_add"
+        android:icon="@drawable/ic_add_circle_black_24dp"
+        android:title="Add recipe"
+        />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_chat_bubble_black_24dp"
+        android:title="Chat"
+        />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile"
+        />
+</menu>

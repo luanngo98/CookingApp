@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MasterChef</string>
+    <string name="addingredientaddrecipe">Thêm thành phần...</string>
+    <string name="addingredientorinstruction">Thêm</string>
+    <string name="addinstructionaddrecipe">Thêm hướng dẫn...</string>
+    <string name="addrecipe">Thêm công thức</string>
+    <string name="chooseimageaddrecipe">Chọn hình ảnh</string>
+    <string name="forgotyourpassword">Quên mật khẩu?</string>
+    <string name="ingredientaddrecipe">Thành phần</string>
+    <string name="instructionaddrecipe">Hướng dẫn</string>
+    <string name="lastdisheshome">Món ăn gần đây</string>
+    <string name="namerecipeaddrecipe">Bạn nấu gì hôm nay?</string>
+    <string name="noticeaddrecipe">(Chọn hình ảnh liên quan đến nấu ăn)</string>
+    <string name="passwordlogin">Mật khẩu</string>
+    <string name="passwordregister">Mật khẩu</string>
+    <string name="remembermelogin">Nhớ tài khoản</string>
+    <string name="signinlogin">Đăng nhập</string>
+    <string name="signinwithaccount">Đăng nhập với MasterChef</string>
+    <string name="signinwithfacebook">Đăng nhập với Facebook</string>
+    <string name="signinwithgoogle">Đăng nhập với Google</string>
+    <string name="signup">Đăng kí nếu không có tài khoản</string>
+    <string name="signupregister">Đăng kí</string>
+    <string name="summaryaddrecipe">Mô tả ngắn gọn món ăn của bạn</string>
+    <string name="usernamelogin">Tên người dùng</string>
+    <string name="usernameregister">Tên người dùng</string>
+</resources>

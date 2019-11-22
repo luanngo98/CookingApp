@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MasterChef</string>
+    
+    <!-- Main activity -->
+    <string name="signinwithfacebook">Sign in with Facebook</string>
+    <string name="signinwithgoogle">Sign in with Google</string>
+    <string name="signinwithaccount">Sign in with account</string>
+    <string name="signup">Sign up if you have no account</string>
+    <string name="title_activity_my_page" translatable="false">MyPageActivity</string>
+    
+    <!--Login-->
+    <string name="usernamelogin">Username</string>
+    <string name="passwordlogin">Password</string>
+    <string name="remembermelogin">Remember me</string>
+    <string name="signinlogin">Sign in</string>
+    <string name="forgotyourpassword">Forgot your password?</string>
+
+    <!--Sign up-->
+    <string name="usernameregister">Username</string>
+    <string name="emailregister" translatable="false">Email</string>
+    <string name="passwordregister">Password</string>
+    <string name="signupregister">Sign up</string>
+
+    <!--Home-->
+    <string name="lastdisheshome">Last dishes</string>
+
+    <!--Add recipe-->
+    <string name="chooseimageaddrecipe">Choose image</string>
+    <string name="noticeaddrecipe">(Please choose image related to cooking)</string>
+    <string name="namerecipeaddrecipe">What do you cook today?</string>
+    <string name="summaryaddrecipe">Brief description of your dish</string>
+    <string name="ingredientaddrecipe">Ingredient</string>
+    <string name="instructionaddrecipe">Instruction</string>
+    <string name="addingredientaddrecipe">Add ingredient...</string>
+    <string name="addinstructionaddrecipe">Add instruction...</string>
+    <string name="addingredientorinstruction">Add</string>
+    <string name="addrecipe">Add recipe</string>
+</resources>
